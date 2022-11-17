@@ -243,7 +243,7 @@ The image below shows the georeferencer and part of the associated GCP table (Po
 Residual Pixel value of 1.211239):
 ![Zim Sheet 3 Georeferencer](images/zim_img/zim_sheet3_poly1.png)
 
-The image below shows the GCPs for Zimbabwe Sheet 4 relative to the GAUL reference dataset over the GLAD
+The image below shows the GCPs for Zimbabwe Sheet 3 relative to the GAUL reference dataset over the GLAD
 Landsat dataset.
 ![Zim sheet 3 GCPs on GAUL](images/zim_img/zim_sheet3_gcps.png)
 
